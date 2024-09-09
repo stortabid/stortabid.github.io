@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stortabid.github.io/sitemap.html.gz
+Sitemap: https://stortabid.github.io/app/sitemap.html.gz
+Sitemap: https://stortabid.github.io/assets/sitemap.html.gz
+Sitemap: https://stortabid.github.io/css/sitemap.html.gz
+Sitemap: https://stortabid.github.io/includes/sitemap.html.gz
+Sitemap: https://stortabid.github.io/item/sitemap.html.gz
+Sitemap: https://stortabid.github.io/src/sitemap.html.gz
